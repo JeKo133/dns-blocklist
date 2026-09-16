@@ -1,3 +1,13 @@
+*.clarity.ms
+*.cloudflareinsights.com
+*.events.data.microsoft.com
+*.ingest.sentry.io
+*.ingest.us.sentry.io
+*.nel.cloudflare.com
+*.nelreports.net
+*.uds.lenovo.com
+ad.doubleclick.net
+telemetry.canva.com
 production.reu.logs.v2.homeconnectegw.com
 global.telemetry.insights.video.a2z.com
 nrdp25.logs.netflix.com
